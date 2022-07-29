@@ -14,6 +14,19 @@
     width: 80px;
 }
 
+.badges{
+    text-align: right;
+}
+
+#place-time{
+    background-color: #343a40;
+    color: white;
+}
+
+#place-time img{
+    max-width: 100%;
+}
+
 #main .carousel-inner img{
     height: 70vh;
     object-fit: cover;
